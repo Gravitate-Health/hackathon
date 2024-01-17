@@ -1,0 +1,3 @@
+### asda
+
+GET https://gravitate-health.lst.tfo.upm.es/epi/api/fhir/Bundle?type=document

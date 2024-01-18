@@ -70,7 +70,7 @@ not listed in this leaflet. See section 4.</li>
   * code = https://spor.ema.europa.eu/rmswi/#100000155538
   * code.text = "What is in this leaflet"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  <p>What is in this leaflet</p>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 <ol>
 <li>What Amoxicillin capsules is and what it is used for</li>
 <li>What you need to know before you take Amoxicillin capsules</li>
@@ -86,7 +86,7 @@ not listed in this leaflet. See section 4.</li>
   * code = https://spor.ema.europa.eu/rmswi/#100000155538
   * code.text = "1. What 0 is and what it is used for"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  <h1 id="what-amoxicillin-capsules-is-and-what-it-is-used-for">What Amoxicillin capsules is and what it is used for</h1>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
 <p>What Amoxicillin Capsule is
 Amoxicillin 250 mg and 500 mg Capsules is an antibiotic. The active ingredient is amoxicillin. This
 belongs to a group of medicines called ‘penicillins’.</p>
